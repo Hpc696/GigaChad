@@ -1,0 +1,80 @@
+body {
+  background-image: url("img/gigachad.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#barra {
+  margin-top: 3%;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+#info {
+  text-align: center;
+}
+h2 {
+  color: red;
+  text-align: center;
+}
+li {
+  display: inline;
+  margin: 10%;
+}
+ul {
+  font-style: bold;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+a,
+nav,
+ul,
+li {
+  color: red;
+  text-decoration: none;
+}
+article {
+  padding: 100px;
+  color: white;
+}
+iframe {
+  margin-top: 10%;
+  margin-left: 35%;
+  margin-bottom: 10%;
+  margin-right: 30%;
+  display: block;
+}
+footer {
+  color: red;
+  font-style: bold;
+  text-align: center;
+}
+#ads {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 20%;
+  display: block;
+  max-width: 300px;
+  max-height: 300px;
+}
+h3 {
+  color: white;
+  text-align: center;
+}
+.recensioni {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+  color: white;
+}
+.stelle {
+  color: yellow;
+  font-style: bold;
+}
+.nomi {
+  color: red;
+}
